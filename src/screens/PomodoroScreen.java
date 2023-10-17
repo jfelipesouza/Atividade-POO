@@ -78,7 +78,7 @@ public class PomodoroScreen extends VBox implements Clock {
       }
       if(minutes==0 && seconds ==0){
    
-        RestScreen rest = new RestScreen(5,stage);
+        RestScreen rest = new RestScreen(25,stage);
         Scene restScene = new Scene(rest, 300, 350);
         stage.setScene(restScene);
       }
