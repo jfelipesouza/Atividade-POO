@@ -1,0 +1,27 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Softwares\\openjfx-11_windows-x64_bin-sdk\\javafx-sdk-11\\lib\\javafx.base.jar",
+            "c:\\Softwares\\openjfx-11_windows-x64_bin-sdk\\javafx-sdk-11\\lib\\javafx.controls.jar",
+            "c:\\Softwares\\openjfx-11_windows-x64_bin-sdk\\javafx-sdk-11\\lib\\javafx.fxml.jar",
+            "c:\\Softwares\\openjfx-11_windows-x64_bin-sdk\\javafx-sdk-11\\lib\\javafx.graphics.jar",
+            "c:\\Softwares\\openjfx-11_windows-x64_bin-sdk\\javafx-sdk-11\\lib\\javafx.media.jar",
+            "c:\\Softwares\\openjfx-11_windows-x64_bin-sdk\\javafx-sdk-11\\lib\\javafx.swing.jar",
+            "c:\\Softwares\\openjfx-11_windows-x64_bin-sdk\\javafx-sdk-11\\lib\\javafx.web.jar",
+            "c:\\Softwares\\openjfx-11_windows-x64_bin-sdk\\javafx-sdk-11\\lib\\javafx-swt.jar"
+        ],
+        "exclude": [
+            "c:\\Softwares\\javafx\\javafx-sdk-11.0.2\\lib\\javafx-swt.jar",
+            "lib/javafx-swt.jar",
+            "lib/javafx.base.jar",
+            "lib/javafx.controls.jar",
+            "lib/javafx.fxml.jar",
+            "lib/javafx.graphics.jar",
+            "lib/javafx.media.jar",
+            "lib/javafx.swing.jar"
+        ]
+    }
+}
