@@ -35,4 +35,4 @@ Para que executar o código do projeto recomendo utilizar o VSCode e seguir pró
 
 ## Demonstração
 
-<iframe width="560" height="315" src="assets/readme/demo.mp4" frameborder="0" allowfullscreen></iframe>
+[![Demo](assets/readme/demo.mp4)](assets/readme/demo.mp4)
