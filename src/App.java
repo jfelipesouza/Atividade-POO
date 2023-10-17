@@ -31,7 +31,7 @@ public class App extends Application {
         toDoButton.setStyle("-fx-background-color: transparent; -fx-background-insets: 0;");
 
         pomodoroButton.setOnAction(event -> {
-            PomodoroScreen pomodoroScreen = new PomodoroScreen(1, stage);
+            PomodoroScreen pomodoroScreen = new PomodoroScreen(25, stage);
             Scene pomodoroScene = new Scene(pomodoroScreen, 300, 350);
             stage.setTitle("Pomodoro");
             Image icon = new Image("file:./assets/tomate.png");
