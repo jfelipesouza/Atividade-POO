@@ -35,11 +35,11 @@ public class ToDoScreen {
             }
         });
 
-        buttonBox = new HBox(10, addButton, removeButton); // Espaçamento de 10 pixels entre os botões
+        buttonBox = new HBox(10, addButton, removeButton); 
 
-        root = new VBox(10, toDoListView, taskInput, buttonBox); // Espaçamento de 10 pixels entre todos os itens
-        root.setPadding(new Insets(10, 10, 10, 10)); // Padding de 10 pixels para todos os lados
-        VBox.setMargin(buttonBox, new Insets(20, 0, 30, 0)); // Margin de 20 pixels no topo e 30 pixels na parte inferior dos botões
+        root = new VBox(10, toDoListView, taskInput, buttonBox); 
+        root.setPadding(new Insets(10, 10, 10, 10)); 
+        VBox.setMargin(buttonBox, new Insets(20, 0, 30, 0)); 
     }
 
     public Pane getUI() {
