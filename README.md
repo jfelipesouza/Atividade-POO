@@ -1,11 +1,14 @@
 # Atividade Avaliativa
 
-
 Para a realização da terceira avaliação decidir fazer duas interfaces de aplicações simples usando o JavaFX, pois já possuia conhecimento na criação de interfaces com o mesmo.
 
-Desenvolvi uma aplicação simples de To-do e uma aplicação muito simples de Pomodoro.
+Foi desenvolvido uma aplicação simples de To-do e uma aplicação muito simples de Pomodoro.
 
 
+## Desenvolvedores 
+ - **Aluno** : João Felipe de Oliveira Souza;
+ - **Matricula**: 201800109927;
+ 
 ## Pomodoro
 
 O pomodoro é uma técnica de estudo ou concentração com breves intervalos de tempo para descanço que busca o máximo de produtividade. No pomodoro que foi desenvolvido tem somente o momento de concentração e o momento de pausa curta.
